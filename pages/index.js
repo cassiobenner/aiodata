@@ -1,5 +1,5 @@
 function Home() {
-	return redirect index.html
+	return <iframe src="index.html"></iframe>
 }
 
 export default Home
