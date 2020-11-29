@@ -1,5 +1,5 @@
 function Home() {
-	return <iframe src="index.html"></iframe>
+	return <div> home</div>
 }
 
 export default Home
