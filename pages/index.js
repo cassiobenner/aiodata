@@ -1,5 +1,5 @@
 function Home() {
-	return <!DOCTYPE html>
+	return (<!DOCTYPE html>
 <html lang="en">
 
     <head>
@@ -1035,7 +1035,7 @@ function Home() {
         <script src="js/main.js"></script>
     </body>
 
-</html>
+</html>)
 }
 
 export default Home
